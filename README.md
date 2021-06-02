@@ -165,4 +165,4 @@ You can use every RS232 serial adapter with 0-5V logic levels (e.g. FTDI-Breakou
 ## Tech Support
 
 ---
-Please submit any technical issue into our [forum](http://forum.fysetc.com/) 
+Please submit any technical issue into our [github](https://github.com/FYSETC/FYSETC-TMC2209/issues) or [forum](http://forum.fysetc.com/) 
